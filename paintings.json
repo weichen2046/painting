@@ -1,0 +1,22 @@
+{
+    "images": [
+        {
+            "title": "Carrot",
+            "dir": "copy",
+            "ext": ".png",
+            "md5": "f8f6567dc891d4285471903f0649b8a7",
+            "width": 2048,
+            "height": 1536,
+            "sizes": []
+        },
+        {
+            "title": "Tortoise",
+            "dir": "copy",
+            "ext": ".png",
+            "md5": "cd834143e1bb3bca88a8ba8bbf2ffe6b",
+            "width": 2048,
+            "height": 2048,
+            "sizes": []
+        }
+    ]
+}
